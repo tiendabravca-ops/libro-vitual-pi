@@ -17,6 +17,7 @@ Ese momento quedó grabado en mi memoria como un tesoro invaluable que el tiempo
 ---
 
 ## 🗝️ Tabla de Verificación de Lectura (Primeras Palabras)
+
 Para comprobar la matemática exacta oculta detrás de la literatura, puedes contar las letras de las palabras iniciales:
 
 * **Soy** = 3 letras
@@ -29,3 +30,11 @@ Para comprobar la matemática exacta oculta detrás de la literatura, puedes con
 * **tierras** = 6 letras
 
 *(El flujo oculto del libro continúa de manera exacta a lo largo de las páginas digitales hasta completar los capítulos de la constante universal).*
+
+---
+
+## 🚀 NAVEGACIÓN COMPLETA DEL LIBRO
+
+Si deseas profundizar más en la estructura del universo y recorrer la constante matemática de forma masiva:
+
+* 👉 [¡Haz clic aquí para leer el Tomo Completo de los 50,000 dígitos!](LIBRO_COMPLETO_50K.md)
